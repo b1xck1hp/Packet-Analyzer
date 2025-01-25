@@ -1,0 +1,8 @@
+flask==3.0.2
+flask-socketio==5.3.6
+flask-cors==4.0.0
+scapy==2.5.0
+requests==2.31.0
+python-socketio==5.11.1
+eventlet==0.35.2
+python-dotenv==1.0.0
